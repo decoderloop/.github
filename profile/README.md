@@ -1,8 +1,6 @@
 # Decoder Loop
 
-![Decoder Loop - Rust Reverse Engineering Training - decoderloop.com](opengraph-site-feature-image.png)
-
-🌐 [decoderloop.com](https://decoderloop.com)
+[<img src="opengraph-site-feature-image.png" alt="Decoder Loop - Rust Reverse Engineering Training - decoderloop.com">](https://decoderloop.com)
 
 Malware authors are using modern programming languages like Rust and Go, but reverse engineers are still catching up. The tools and techniques we have were built for a different era.
 
